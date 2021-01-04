@@ -1,6 +1,6 @@
 # rumah
 
-A new Flutter project.
+Real Estate Property Portal
 
 ## Getting Started
 
