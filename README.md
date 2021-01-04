@@ -2,9 +2,9 @@
 
 Real Estate Property Portal
 
-Created with Flutter
--Included 3 Pages, 
--Push Notification,
+Created with Flutter :
+- Included 3 Pages
+- Push Notification
 
 ## Getting Started
 
