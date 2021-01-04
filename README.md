@@ -2,6 +2,10 @@
 
 Real Estate Property Portal
 
+Created with Flutter
+-Included 3 Pages, 
+-Push Notification,
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
